@@ -1,4 +1,4 @@
-[LIVE DEMO] (https://wndrlst-b903c8.netlify.app/).
+[LIVE DEMO](https://wndrlst-b903c8.netlify.app/).
 
 # Getting Started with Create React App
 
